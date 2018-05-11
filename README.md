@@ -1,2 +1,1 @@
-# diffusion-2D
-MECE 5397
+# diffusion-project
